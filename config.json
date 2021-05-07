@@ -1,0 +1,11 @@
+{
+  "GOOGLE_CLIENT_ID": "272760903805-1v483etcgpff8l6ev9j7o9vk6eqrlpdu.apps.googleusercontent.com",
+  "GOOGLE_CLIENT_SECRET": "PC7xTeolAOL8y1W5R6BFo5SD",
+  "FACEBOOK_CLIENT_ID": "737432223619060",
+  "FACEBOOK_CLIENT_SECRET": "373c1fcf8cc0105d0533ed2b508655bc",
+  "LINKEDIN_CLIENT_ID": "78g0lu1nz5z071",
+  "LINKEDIN_CLIENT_SECRET": "GSlNRJdHpFRvpvEU",
+  "GITHUB_CLIENT_ID": "69575943a0e4bdc36afa",
+  "GITHUB_CLIENT_SECRET": "6e0013b3c9592bda14c5b13d72dd705e758d372d",
+  "MONGO_URI":"mongodb+srv://amanjot11:amanjot11@cluster0.0ckxj.mongodb.net/shop?retryWrites=true&w=majority"
+}
